@@ -40,3 +40,6 @@ nav: "about"
 <p>11. I use niri</p>
 
 <p>12. I use neovim and kitty</p>
+<div align="center">
+<img  src="http://moe.tans.fun/@:mhxxx" alt=":name" />
+</div>

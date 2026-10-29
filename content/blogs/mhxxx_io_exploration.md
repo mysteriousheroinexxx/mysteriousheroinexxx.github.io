@@ -191,3 +191,21 @@ Note that distinguishing seekable from non-seekable handles would not be enough.
 ### 2. Make `File.length` clearer for handles without a meaningful size
 
 On Linux, `statx` defines `stx_size` as the size of a regular file or symbolic link. For a terminal, a returned size of `0` is not a real length, only the absence of one. Returning `0` as if it were a usable length is what lets the `seekTo(length)` pattern look valid and then fail with `error.Unseekable` once the writer is in streaming mode. `length` could report that no meaningful length exists for such handles, so code does not mistake "unknown" for "empty".
+
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="mysteriousheroinexxx/mysteriousheroinexxx.github.io"
+        data-repo-id="R_kgDOVbbe0w"
+        data-category="General"
+        data-category-id="DIC_kwDOVbbe084DJ7X2"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="cobalt"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

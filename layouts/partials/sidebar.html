@@ -1,0 +1,21 @@
+<a href="#side-bar" class="menu-btn">☰</a>
+        <div class="sidebar">
+            <a href="#" class="close-btn">×</a>
+            <div class="box green">
+                <h4>Getting Started</h4>
+                <a href="{{ "guide-for-newcomers.html" | relURL }}"{{ if eq .Params.sidebar "guide-for-newcomers" }} aria-current="page"{{ end }}>Guide for Newcomers</a>
+                <a href="{{ "guestbook.html" | relURL }}"{{ if eq .Params.sidebar "guestbook" }} aria-current="page"{{ end }}>Join the Site</a>
+                <a href="{{ "patreon.html" | relURL }}"{{ if eq .Params.sidebar "patreon" }} aria-current="page"{{ end }}>Contribute</a>
+            </div>
+
+            <div class="box">
+                <h4>My favourite works</h4>
+                <a href="{{ "packer-sniffer.html" | relURL }}"{{ if eq .Params.sidebar "packer-sniffer" }} aria-current="page"{{ end }}>Packet sniffer</a><br>
+                <a href="{{ "the-operating-system.html" | relURL }}"{{ if eq .Params.sidebar "the-operating-system" }} aria-current="page"{{ end }}>Operating system</a><br>
+                <a href="#">(coming soon)</a>
+            </div>
+            <div class="box">
+                <h4>Other less cool works</h4>
+                <a href="#">(coming soon)</a>
+            </div>
+        </div>

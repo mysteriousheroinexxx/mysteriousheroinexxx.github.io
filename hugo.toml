@@ -1,0 +1,7 @@
+baseURL = "https://mhxxx.github.io/"
+title = "Mysterious Heroine"
+uglyURLs = true
+disableKinds = ["taxonomy", "term", "rss", "sitemap", "robotsTXT", "404"]
+
+[markup.goldmark.renderer]
+unsafe = true

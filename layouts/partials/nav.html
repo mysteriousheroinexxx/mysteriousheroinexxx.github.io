@@ -1,0 +1,8 @@
+<nav class="nav">
+            <a href="{{ "index.html" | relURL }}"{{ if eq .Params.nav "about" }} aria-current="page"{{ end }}>About</a>
+            <a href="https://discord.gg/TKrRVRwutH">Community</a>
+            <a href="{{ "links.html" | relURL }}"{{ if eq .Params.nav "links" }} aria-current="page"{{ end }}>Links</a>
+            <a href="{{ "social.html" | relURL }}"{{ if eq .Params.nav "social" }} aria-current="page"{{ end }}>Contact me</a>
+            <a href="{{ "projects.html" | relURL }}"{{ if eq .Params.nav "projects" }} aria-current="page"{{ end }}>Projects</a>
+            <a href="{{ "blogs.html" | relURL }}"{{ if eq .Params.nav "blogs" }} aria-current="page"{{ end }}>Blogs</a>
+        </nav>

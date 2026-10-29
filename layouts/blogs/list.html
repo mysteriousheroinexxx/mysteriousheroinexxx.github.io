@@ -1,0 +1,15 @@
+{{ define "main" }}
+        <div class="content">
+            <div class="content-title">
+            <h1>{{ .Params.heading }}</h1>
+            </div>
+            <div class="wiki-section">
+                {{ .Content }}
+                {{ range .RegularPages.ByDate.Reverse }}
+                <hr>
+                <h2><a href="{{ .RelPermalink }}">{{ .Params.heading | default .Title }}</a></h2>
+                <p>{{ if not .Date.IsZero }}<i>{{ .Date.Format "2006-01-02" }}</i> · {{ end }}{{ .ReadingTime }} min read</p>
+                {{ end }}
+            </div>
+        </div>
+{{ end }}

@@ -13,13 +13,13 @@ nav: "about"
 
 <p>Hello, I am MHXXX, I do system programming specifically server emulation. Kaching~</p>
 
-<p>Primary tools: Zig, MHXXX_PS(packet sniffer), Love from Morgan, Drive to tear down all of the servers</p>
+<p>Primary tools: C, C++, Zig, MHXXX_PS(packet sniffer), Love from Morgan, Drive to tear down all of the servers</p>
 
 <b>Important facts about me</b>
 
 <p>1. I love Morgan le fay</p>
 
-<p>2. I like to code in zig</p>
+<p>2. I like to code in C.(I have been recently enjoying zig a little too much)</p>
 
 <p>3. I don't have any friends</p>
 
@@ -40,6 +40,8 @@ nav: "about"
 <p>11. I use niri</p>
 
 <p>12. I use neovim and kitty</p>
+
+
 <div align="center">
 <img  src="http://moe.tans.fun/@:mhxxx" alt=":name" />
 </div>

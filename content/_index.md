@@ -45,9 +45,9 @@ nav: "about"
 
 <div align="center">
 <p style="word-spacing: 10px; ">
-<a href="https://webring.chaldea.moe/api/prev?from=mhxxx" style="text-decoration: none;">← prev</a>
-<a href="https://webring.chaldea.moe/" style="text-decoration: none;">webring</a>
-<a href="https://webring.chaldea.moe/api/next?from=mhxxx" style="text-decoration: none;">next →</a>
+<a href="https://larpring.com/api/prev?from=mhxxx" style="text-decoration: none;">← prev</a>
+<a href="https://larpring.com/" style="text-decoration: none;">webring</a>
+<a href="https://larpring.com/api/next?from=mhxxx" style="text-decoration: none;">next →</a>
 </p>
 <img  src="http://moe.tans.fun/@:mhxxx" alt=":name" />
 </div>

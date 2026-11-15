@@ -5,6 +5,7 @@ date: 2026-10-29
 ---
 
 ## The problem
+- co-authored with souls-syntax 
 
 Here is a minimal program that writes a line to stdout:
 

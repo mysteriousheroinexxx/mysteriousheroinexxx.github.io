@@ -43,6 +43,28 @@ nav: "about"
 
 ---
 
+<h4>My GPG key</h4>
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEavNfzBYJKwYBBAHaRw8BAQdAHMbEw84iJUvbml+oaVCFyYBK+1wmhburNhKH
+D9E/30i0N015c3RlcmlvdXMgSGVyb2luZSA8bXlzdGVyaW91c2hlcm9pbmV4bW9y
+Z2FuQGdtYWlsLmNvbT6IrAQTFgoAVBYhBAzU4syYb5w6wz2KYcLHq4h4aZEiBQJq
+81/MGxSAAAAAAAQADm1hbnUyLDIuNSsxLjEyLDIsMgIbAwULCQgHAgYVCgkICwIE
+FgIDAQIeAQIXgAAKCRDCx6uIeGmRIv8JAP9tCxViycabQC3JWmoxAwNRt2bSpDx3
+hSm3eBGx7/VKgwEA84mmzu2/4n2egjtS11/17QhGa/LaEjNtS3eDsfE3xAS4OARq
+81/MEgorBgEEAZdVAQUBAQdAfVi8JR+DKRtFaYQmpItJ6aniUPKjVgFvFmdxCLTG
+iA8DAQgHiJQEGBYKADwWIQQM1OLMmG+cOsM9imHCx6uIeGmRIgUCavNfzBsUgAAA
+AAAEAA5tYW51MiwyLjUrMS4xMiwyLDICGwwACgkQwseriHhpkSKJfgD/XPdd5/AF
+Y9xEUZVZU53JYeqVaqntj4NP50T1fgQYBKoA/1DSiYgHP1fbLoIo5eFQcmjtTEBH
+TxAmKCq/hj1XeWgI
+=9hy4
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+
+---
+
 <div align="center">
 <p style="word-spacing: 10px; ">
 <a href="https://webring.chaldea.moe/api/prev?from=mhxxx" style="text-decoration: none;">← prev</a>

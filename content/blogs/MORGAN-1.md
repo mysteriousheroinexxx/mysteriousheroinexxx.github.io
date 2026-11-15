@@ -1,6 +1,6 @@
 ---
-title: “MORGAN: 1. What, Why ?”
-heading: “MORGAN: 1. What, Why ?”
+title: "MORGAN: 1. What, Why ?"
+heading: "MORGAN: 1. What, Why ?"
 date: 2026-11-15
 ---
 

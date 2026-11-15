@@ -16,7 +16,7 @@ What is planned in this series so far.
 
 1. morganOS: An operating system.
 
-The biggest tribute in terms of software is likely an operating system, and if there is something else, then I have knowledge of such a thing.
+The biggest tribute in terms of software is likely an operating system, and if there is something else, then I have no knowledge of such a thing.
 
 There are thousands upon thousands of OS in the world, so a generic one would never grab her attention; such is the apathy of royalty. So, while not immediately an interesting modification, what I will introduce is that rather than using a traditional filesystem, I will use a database for the filesystem, while it is not a unique idea in itself, I am sure I can find some uniqueness in this path as it’s not as thoroughly explored as always.
 

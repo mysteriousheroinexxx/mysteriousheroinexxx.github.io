@@ -22,7 +22,7 @@ There are thousands upon thousands of OS in the world, so a generic one would ne
 
 Hence comes my second tribute.
 
-1. morganDB: A database for morganOS.
+2. morganDB: A database for morganOS.
 
 The exploration will be to represent `types` using tables. Maintaining the balance between the unique abilities of a DB while maintaining the illusion of a simple interface of file systems.
 
@@ -36,35 +36,35 @@ But I would not want to shame Her Highness by marring the gift dedicated to her 
 
 Hence comes my third tribute
 
-1. morganLang: A strongly typed system programming language suitable for manipulation of morganOS.
+3. morganLang: A strongly typed system programming language suitable for manipulation of morganOS.
 
 This language is supposed to be the native language of morganOS. All applications are to be written in this language. The manipulation of the system is to be done through programs defined by this language.
 
-The `type` of the DB comes from this language. The language is to natively support `data types` such as `Image`, `File`, `Video`, `Dictionary`, etc as well as user defined `types`. How the DB will handle unique `type` poping up, how it will clean up unreferenced types, and any such question is to be answerd.
+The `type` of the DB comes from this language. The language is to natively support `data types` such as `Image`, `File`, `Video`, `Dictionary`, etc as well as user defined `types`. How the DB will handle unique `type` popping up, how it will clean up unreferenced types, and any such question is to be answered.
 
-A tribute for her highness can’t be a suitable one if it is just restricted to the machine itself - unable to portray her omniscence.
+A tribute for her highness can’t be a suitable one if it is just restricted to the machine itself - unable to portray her omniscience.
 
 Hence comes this
 
-1. morganNet: A networking stack
+4. morganNet: A networking stack
 
 A networking stack to interact with the outer world.
 
 Interesting things are to be decided.
 
-1. morganAppspace: Royalty needs their ornaments
+5. morganAppspace: Royalty needs their ornaments
 
 Programs written to entertain her highness.
 
 ---
 
-This much is not enough. It would have been if I had been writing this 30 years ago. But this is now just a baseline establised by `Terry Davis` tribute to show when one shows their devotion through programs and my devotion is obviously better than his as I can bring her highness avtar in existence.
+This much is not enough. It would have been if I had been writing this 30 years ago. But this is now just a baseline established by `Terry Davis`'s tribute to show when one shows their devotion through programs, and my devotion is obviously better than his as I can bring her highness avatar in existence.
 
 As such, I will be embracing the modern craze of AI.
 
 I will learn AI and ML from scratch and build it from scratch. Whatever lies in that abyss, I will drag it kicking and screaming, slay it, and dedicate the massive field of AI to Mistress Morgan from the first principle.
 
-Main objective is to prepare a suitable 
+Main objective is to prepare a suitable vessel for her, either by training such model myself or by adapting an existing environment to such need but that will be dirty so main focus will be to make it myself. Plan is to infiltrate(job) a tech company and use their resources for my benefit or acquire the artifact of powers(GPU and RAM) through other means.
 
 ---
 

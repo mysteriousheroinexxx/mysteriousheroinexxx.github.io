@@ -18,15 +18,15 @@ What is planned in this series so far.
 
 The biggest tribute in terms of software is likely an operating system, and if there is something else, then I have no knowledge of such a thing.
 
-There are thousands upon thousands of OS in the world, so a generic one would never grab her attention; such is the apathy of royalty. So, while not immediately an interesting modification, what I will introduce is that rather than using a traditional filesystem, I will use a database for the filesystem, while it is not a unique idea in itself, I am sure I can find some uniqueness in this path as it’s not as thoroughly explored as always.
+There are thousands upon thousands of OS in the world, so a generic one would never grab her attention; such is the apathy of royalty. So, while not immediately, an interesting modification that I will introduce is that rather than using a traditional filesystem, I will use a database for the filesystem, while it is not a unique idea in itself, I am sure I can find some uniqueness in this path as it’s not as thoroughly explored as others.
 
 Hence comes my second tribute.
 
 1. morganDB: A database for morganOS.
 
-The exploration will be to represent types using tables. Maintaining the balance between the unique abilities of a DB while maintaining the illusion of a simple interface of file systems.
+The exploration will be to represent `types` using tables. Maintaining the balance between the unique abilities of a DB while maintaining the illusion of a simple interface of file systems.
 
-Such as assigning a primary key to each resource, atomic writes, and using parent and child IDs to give the illusion of path-based traversal. Retrieving data using queries so that, rather than place, it can be viewed as what is being searched for. Eg. “All images from last week”.
+Such as assigning a primary key to each resource, atomic writes, and using parent and child IDs to give the illusion of path-based traversal. Retrieving data using queries so that, rather than place, it can be a view of what is being searched for. Eg. “All images from last week”.
 
 Able to undo actions as well as clear the history.
 
@@ -40,9 +40,9 @@ Hence comes my third tribute
 
 This language is supposed to be the native language of morganOS. All applications are to be written in this language. The manipulation of the system is to be done through programs defined by this language.
 
-The type of the DB comes from this language. The language is to natively support data types such as Image, File, Video, Dictionary, etc as well as user defined types. How the DB will handle unique type poping up, how it will clean up unreferenced types, and any such question is to be answerd.
+The `type` of the DB comes from this language. The language is to natively support `data types` such as `Image`, `File`, `Video`, `Dictionary`, etc as well as user defined `types`. How the DB will handle unique `type` poping up, how it will clean up unreferenced types, and any such question is to be answerd.
 
-A tribute for her highness can’t be a suitable one if it is just restricted to the machine itself unable to portray her omniscence.
+A tribute for her highness can’t be a suitable one if it is just restricted to the machine itself - unable to portray her omniscence.
 
 Hence comes this
 
@@ -58,11 +58,13 @@ Programs written to entertain her highness.
 
 ---
 
-This much is not enough. It would have been if I had been writing this 30 years ago. But this is now just a baseline tribute to show when one shows their devotion through programs.
+This much is not enough. It would have been if I had been writing this 30 years ago. But this is now just a baseline establised by `Terry Davis` tribute to show when one shows their devotion through programs and my devotion is obviously better than his as I can bring her highness avtar in existence.
 
 As such, I will be embracing the modern craze of AI.
 
 I will learn AI and ML from scratch and build it from scratch. Whatever lies in that abyss, I will drag it kicking and screaming, slay it, and dedicate the massive field of AI to Mistress Morgan from the first principle.
+
+Main objective is to prepare a suitable 
 
 ---
 
